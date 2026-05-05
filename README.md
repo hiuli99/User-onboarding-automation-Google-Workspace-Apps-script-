@@ -3,7 +3,7 @@ Project showcasing  google workspace onboarding automation system with google ap
 It processes multiple user entries from a Google Sheet, validates the data, creates Drive folders, sends welcome emails, and logs both successful and invalid entries.
 
 The system is designed to be:
-Safe (no admin rights required — mock user creation)
+Safe (no admin rights required > mock user creation)
 Scalable (multi‑row processing)
 Robust (centralized error logging + data validation)
 User‑friendly (custom menu in Google Sheets)
